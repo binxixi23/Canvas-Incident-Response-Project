@@ -1,5 +1,5 @@
 # 🕵️ Technical Analysis: The 2026 Canvas/Instructure Cybersecurity Incident
-![Security Workstation](12.png)
+![Security Analysis](../12.png)
 **Author:** Cuong Dang  
 **Course:** ITAI 1372 - AI in Cybersecurity (Houston City College)  
 **Date:** May 7, 2026
